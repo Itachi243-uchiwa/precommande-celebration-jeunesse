@@ -265,8 +265,9 @@ export default function HomePage() {
       </section>
 
       {/* ─── FOOTER ─── */}
-      <footer className="border-t border-white/5 py-8 px-4 text-center text-white/30 text-sm">
+      <footer className="border-t border-white/5 py-8 px-4 text-center text-white/30 text-sm space-y-1">
         <p>© 2026 Église La Compassion Bruxelles · Célébration Jeunesse</p>
+        <p className="text-white/15 text-xs">Powered by Martinez Muzela</p>
       </footer>
     </div>
   )
